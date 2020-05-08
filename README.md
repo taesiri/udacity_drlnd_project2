@@ -99,3 +99,9 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 ```
 
 5. Open the notebook you like to explore.
+
+## Video
+
+See it in action here:
+
+[![Solving Reacher!](Images/youtube-thumbnail.jpg)](http://www.youtube.com/watch?v=udRKojJH35s "REAAAACH!!")
