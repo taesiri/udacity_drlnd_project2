@@ -2,7 +2,7 @@
 
 ## Reacher
 
-<center><img src='images/reacher.gif'></center>
+<center><img src='Images/reacher.gif'></center>
 
 ### Problem Formulation
 
