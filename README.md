@@ -1,4 +1,4 @@
-# Project 2 - Udacity Deep Reinforcement Learning Nando Degree
+# Project 2 - Udacity Deep Reinforcement Learning Nanodegree
 
 ## Reacher
 
